@@ -17,7 +17,6 @@ Library: C:\Users\greyb\OneDrive\Desktop\Potok\Devpull\Racket Gear\Temp\BurstOut
 --assembly-defines=Unity.2D.Animation.Runtime;
 --assembly-defines=Unity.AdaptivePerformance;
 --assembly-defines=Unity.AdaptivePerformance.Google.Android;
---assembly-defines=Unity.AdaptivePerformance.Samsung.Android;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.Burst.Unsafe;
 --assembly-defines=Unity.Collections;
